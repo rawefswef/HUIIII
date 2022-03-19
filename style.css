@@ -1,0 +1,278 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.logo-pgnu-head {
+  margin: 45px 0px 0px 45px;
+}
+
+.slogan {
+  margin-top: 62px;
+  background: #c62e3e;
+  height: 72px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.main-background {
+  background-image: url(img/25a26aa266ba48791e12aa907d5f49f4.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 1px solid gray;
+  height: 1052px;
+}
+
+.main-background-text {
+  display: flex;
+  justify-content: center;
+  margin-top: 20%;
+}
+
+.main-background-palka {
+  background: #c62e3e;
+  width: 25px;
+  height: 300px;
+}
+
+.main-background-text-header {
+  color: #fff;
+  font-size: 68px;
+  margin-left: 30px;
+}
+
+.list-web {
+  height: 75px;
+  border: 1px solid #c62e3e;
+  display: flex;
+  background: #c62e3e;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-web-ul {
+  display: flex;
+  font-size: 28px;
+}
+
+.list-web-ul,
+a {
+  color: #fff;
+  margin-left: 42px;
+}
+
+.wrapper-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 62px;
+}
+
+.wrapper-section-text-one {
+  font-size: 48px;
+  color: #c62e3e;
+}
+
+.wrapper-section-text-two {
+  margin-top: 22px;
+  font-size: 25px;
+  color: #c62e3e;
+}
+
+main {
+  margin-top: 62px;
+}
+
+.interesting-places-one {
+  background: #c62e3e;
+}
+
+.interesting-places-one {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.attractions-maps-one {
+  width: 534px;
+  height: 675px;
+  background: #fff;
+  margin-top: 50px;
+}
+
+.attractions-maps-two {
+  margin-left: 227px;
+  width: 534px;
+  height: 675px;
+  margin-top: 50px;
+  background: #fff;
+}
+
+.photo-cards-one {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 534px;
+  height: 409px;
+}
+
+.card-title {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+  color: #c62e3e;
+}
+
+.web-card-one {
+  display: flex;
+}
+
+.web-card {
+  color: #c62e3e;
+  margin-top: 62px;
+  font-size: 35px;
+  border: 2px solid #c62e3e;
+  padding: 10px 40px 10px 40px;
+  margin-left: 140px;
+}
+
+.phote-cards-two {
+  width: 534px;
+  height: 409px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-title-two {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+  color: #c62e3e;
+}
+
+.web-btm-two {
+  display: flex;
+  margin-top: 28px;
+}
+
+.web-card-two {
+  color: #c62e3e;
+  margin-top: 62px;
+  font-size: 35px;
+  border: 3px solid #c62e3e;
+  padding: 10px 40px 10px 40px;
+  margin-left: 150px;
+}
+
+.interesting-places-three {
+  background: #c62e3e;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 100px;
+}
+
+.attractions-maps-three {
+  width: 534px;
+  height: 675px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.attractions-maps-four {
+  width: 534px;
+  height: 675px;
+  background: #fff;
+  margin-top: 50px;
+  margin-left: 227px;
+}
+
+.phote-cards-three {
+  width: 534px;
+  height: 409px;
+  display: flex;
+  margin-top: -30px;
+  flex-direction: column;
+}
+
+.card-title-three {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  color: #c62e3e;
+  margin-top: 32px;
+  margin-left: 90px;
+}
+
+.set {
+  margin-top: 0;
+  margin-left: 0;
+}
+
+.set-phote {
+  margin-top: -130px;
+}
+
+.wrapper-section-two {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 62px;
+}
+
+.wrapper-section-tex-one {
+  font-size: 48px;
+  color: #c62e3e;
+}
+
+.interesting-places-four {
+  margin-top: 62px;
+  background: #c62e3e;
+  display: flex;
+  justify-content: center;
+}
+
+.attractions-maps-five {
+  width: 534px;
+  height: 575px;
+  background: #fff;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.photo-cards-five {
+  width: 534px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-title-five {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+  color: #c62e3e;
+}
+
+.maps-five {
+  margin-left: 227px;
+}
+
+.block-one {
+  margin-top: 0;
+  height: 750px;
+}
+
+.block-one-table {
+  height: 650px;
+}
